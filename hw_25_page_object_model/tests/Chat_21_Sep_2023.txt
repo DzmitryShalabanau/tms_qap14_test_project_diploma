@@ -1,0 +1,81 @@
+Janani Rakshandha C3 hours ago
+good evening mam
+i am able to understand the codes and topics mam but couldn't do faster. I will learn to do it fast mam
+ok mam
+ETrainer 2 hours ago
+https://www.typescripttutorial.net/typescript-tutorial/typescript-object-type/
+JR
+Janani Rakshandha C2 hours ago
+sure mam
+BJ
+Bharath Jawahar2 hours ago
+yes
+JR
+Janani Rakshandha C2 hours ago
+yes mam
+sure mam
+done mam
+SC
+Srinivas Chakka2 hours ago
+done mam
+BJ
+Bharath Jawahar2 hours ago
+done
+JR
+Janani Rakshandha C2 hours ago
+done mam
+BJ
+Bharath Jawahar2 hours ago
+yes
+I got the same message
+SC
+Srinivas Chakka2 hours ago
+PS C:\Srinivas\Automation\PlaywrightWorkSpace\ProjectSample> npm init playwright@latest
+Need to install the following packages:
+  create-playwright@1.17.130
+Ok to proceed? (y)
+BJ
+Bharath Jawaharan hour ago
+yes I have done it
+JR
+Janani Rakshandha Can hour ago
+yes mam
+BJ
+Bharath Jawahar44 minutes ago
+yes I can see it
+JR
+Janani Rakshandha C44 minutes ago
+yes mam
+Unread messages
+yes mam but you said s
+omething about the locator right? can you explain it again mam
+yes mam
+ok mam
+ETrainer 8 minutes ago
+> npx playwright test
+To run in particular browser
+> npx playwright test --project= chromium
+To run in header
+> npx playwright test --project =chromium --headed
+To run particular test file
+> npx playwright test example.spec.ts
+To run particular test
+> npx playwright test -g "has title" --project=chromium 
+To run in ui mode
+> npx playwright test --ui
+To run in debug mode
+> npx playwright --de
+> npx playwright test
+To run in particular browser
+> npx playwright test --project= chromium
+To run in header
+> npx playwright test --project =chromium --headed
+To run particular test file
+> npx playwright test example.spec.ts
+To run particular test
+> npx playwright test -g "has title" --project=chromium 
+To run in ui mode
+> npx playwright test --ui
+To run in debug mode
+> npx playwright --debug
+http://zero.webappsecurity.com/
